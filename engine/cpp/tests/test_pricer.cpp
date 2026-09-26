@@ -3,7 +3,7 @@
 #include <iomanip>
 
 int main() {
-    std::cout << std::setprecision(15);
+    std::cout << std::setprecision(17);
 
     double S = 100, K = 100, r = 0.05, sigma = 0.2, T = 1.0;
 
